@@ -1,2 +1,2 @@
 # Comparing TensorFlow to NumPy implementation
-Adding alternative implementations with TensorFlow library to see the difference between the two.
+Adding alternative implementations with TensorFlow library to see the difference between the two. After comprehensive testings on the TensorFlow.Keras model, hyperparameter modifications and adding regularizations, it is shown that said model performs better on the training set as well as the test set; although, strictly speaking, there is some room for improvement.
